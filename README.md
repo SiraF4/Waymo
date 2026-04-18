@@ -1,4 +1,4 @@
-Waymo Cybersecurity Attack Simulations
+Waymo Cybersecurity Attack Simulations ( Gabriella Caruso & Yeabsira Frost)
 ECE 1155 - Information Security 
 
 This project contains two python simulations which demonstrate cyberattacks on the Waymo autonomous platform. Specifically, authentication attack and sensor spoofing attack.
